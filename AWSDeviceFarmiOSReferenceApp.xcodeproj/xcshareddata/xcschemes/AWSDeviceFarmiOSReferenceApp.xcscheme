@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1130"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5DF508271B1FC87100422C42"
+               BuildableName = "AWSDeviceFarmiOSReferenceApp.app"
+               BlueprintName = "AWSDeviceFarmiOSReferenceApp"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7F2D90991D3702FA009415BF"
+               BuildableName = "ADFiOSReferenceAppUITests.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1B0B2498CE0600C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1B1E2498CE0900C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1B312498CE0A00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1B442498CE0A00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1B572498CE0A00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C022498CE0C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 10.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 10"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C152498CE0C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 11.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 11"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C282498CE0C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 12.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 12"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C3B2498CE0C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 13.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 13"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C4E2498CE0C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 14.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 14"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C612498CE0D00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 15.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 15"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C742498CE0D00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 16.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 16"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C872498CE0D00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 17.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 17"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1C9A2498CE0D00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1CAD2498CE5300C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1CC02498CE5400C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1D6B2498CE5600C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 10.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 10"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1D7E2498CE5700C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 11.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 11"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1D912498CE5700C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 12.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 12"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1DA42498CE5700C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 13.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 13"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1DB72498CE5800C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 14.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 14"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1DCA2498CE5800C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 15.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 15"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1DDD2498CE5800C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 16.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 16"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1DF02498CE5900C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 17.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 17"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E032498CE5900C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 18.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 18"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E162498CE5900C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 19.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 19"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1CD32498CE5400C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 2.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 2"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E292498CE5900C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 20.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 20"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E3C2498CE5A00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 21.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 21"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E4F2498CE5A00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 22.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 22"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E622498CE5A00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 23.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 23"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E752498CE5B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 24.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 24"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E882498CE5B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 25.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 25"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1E9B2498CE5B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 26.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 26"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1EAE2498CE5B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 27.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 27"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1EC12498CE5C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 28.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 28"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1ED42498CE5C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 29.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 29"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1CE62498CE5500C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 3.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 3"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1EE72498CE5C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 30.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 30"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1EFA2498CE5D00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 31.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 31"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1F0D2498CE5D00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 32.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 32"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1F202498CE5D00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 33.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 33"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1F332498CE5E00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 34.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 34"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1F462498CE5E00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 35.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 35"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1F592498CE5E00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 36.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 36"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1F6C2498CE5E00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 37.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 37"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1F7F2498CE5F00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 38.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 38"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1F922498CE5F00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 39.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 39"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1CF92498CE5500C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 4.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 4"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1FA52498CE5F00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 40.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 40"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1FB82498CE6000C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 41.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 41"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1FCB2498CE6000C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 42.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 42"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1FDE2498CE6000C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 43.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 43"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1FF12498CE6000C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 44.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 44"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A20042498CE6100C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 45.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 45"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A20172498CE6100C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 46.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 46"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A202A2498CE6100C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 47.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 47"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A203D2498CE6200C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 48.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 48"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A20502498CE6200C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 49.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 49"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1D0C2498CE5500C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 5.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 5"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1D1F2498CE5500C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 6.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 6"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1D322498CE5600C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 7.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 7"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1D452498CE5600C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 8.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 8"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1D582498CE5600C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 9.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 18 copy copy 9"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1B6A2498CE0A00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 2.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 2"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1B7D2498CE0A00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 3.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 3"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1B902498CE0B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 4.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 4"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1BA32498CE0B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 5.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 5"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1BB62498CE0B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 6.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 6"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1BC92498CE0B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 7.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 7"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1BDC2498CE0B00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 8.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 8"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D6A1BEF2498CE0C00C087B8"
+               BuildableName = "ADFiOSReferenceAppUITests copy copy copy copy copy 9.xctest"
+               BlueprintName = "ADFiOSReferenceAppUITests copy copy copy copy copy 9"
+               ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5DF508271B1FC87100422C42"
+            BuildableName = "AWSDeviceFarmiOSReferenceApp.app"
+            BlueprintName = "AWSDeviceFarmiOSReferenceApp"
+            ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5DF508271B1FC87100422C42"
+            BuildableName = "AWSDeviceFarmiOSReferenceApp.app"
+            BlueprintName = "AWSDeviceFarmiOSReferenceApp"
+            ReferencedContainer = "container:AWSDeviceFarmiOSReferenceApp.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
